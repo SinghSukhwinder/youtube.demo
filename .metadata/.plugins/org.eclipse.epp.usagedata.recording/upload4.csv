@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20090527,"org.eclipse.ui.views.log",1365995167622
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1365995167631
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1365995167641
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1365995167655
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1365995167680
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1365995167689
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1365995167700
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1365995167700
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1365995167715
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1365995167724
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.100.v20090520-1905,"org.eclipse.equinox.simpleconfigurator",1365995167731
+os,sysinfo,,,"win32",1365995167735
+arch,sysinfo,,,"x86",1365995167735
+ws,sysinfo,,,"win32",1365995167735
+locale,sysinfo,,,"en_US",1365995167735
+processors,sysinfo,,,"2",1365995167735
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1365995167735
+java.runtime.version,sysinfo,,,"1.7.0_06-b24",1365995167735
+java.specification.name,sysinfo,,,"Java Platform API Specification",1365995167735
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1365995167735
+java.specification.version,sysinfo,,,"1.7",1365995167735
+java.vendor,sysinfo,,,"Oracle Corporation",1365995167735
+java.version,sysinfo,,,"1.7.0_06",1365995167735
+java.vm.info,sysinfo,,,"mixed mode",1365995167735
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1365995167735

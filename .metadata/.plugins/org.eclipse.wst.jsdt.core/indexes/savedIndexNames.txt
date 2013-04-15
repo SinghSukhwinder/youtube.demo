@@ -1,0 +1,6 @@
+INDEX VERSION 1.121+D:\MI_Automation\gitproject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1228105634.index
+2783294579.index
+701104405.index
+3686775988.index
+1521540326.index

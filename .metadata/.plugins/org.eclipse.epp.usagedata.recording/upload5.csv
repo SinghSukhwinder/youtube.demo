@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1365995167735
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1365995167735
+java.vm.specification.version,sysinfo,,,"1.7",1365995167735
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1365995167735
+java.vm.version,sysinfo,,,"23.2-b09",1365995167735
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1365995176774
+started,bundle,org.eclipse.wst.common.project.facet.ui,1.4.0.v200906080543,"org.eclipse.wst.common.project.facet.ui",1365995186297
+started,bundle,org.eclipse.wst.common.emf,1.1.300.v200905060430,"org.eclipse.wst.common.emf",1365995186363
+started,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v200906151043,"org.eclipse.emf.ecore.xmi",1365995186432
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.1.300.v200811200330,"org.eclipse.wst.common.emfworkbench.integration",1365995186435
+started,bundle,org.eclipse.wst.common.modulecore,1.1.300.v200904132230,"org.eclipse.wst.common.modulecore",1365995186491
+started,bundle,org.eclipse.wst.web.ui,1.1.300.v200905242131,"org.eclipse.wst.web.ui",1365995186491
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1365995186625
+started,bundle,org.eclipse.wst.server.core,1.1.101.v20090515,"org.eclipse.wst.server.core",1365995186772
+started,bundle,org.eclipse.jst.j2ee.web,1.1.300.v200904290430,"org.eclipse.jst.j2ee.web",1365995186829
+started,bundle,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui",1365995186862
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1365995187104
+started,bundle,org.eclipse.jdt.launching,3.5.0.v20090527,"org.eclipse.jdt.launching",1365995187106
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks.ui",1365995187659
+started,bundle,org.eclipse.jst.j2ee.ui,1.1.300.v200905132034,"org.eclipse.jst.j2ee.ui",1365995222618
+started,bundle,org.eclipse.jst.j2ee.core,1.1.300.v200905060430,"org.eclipse.jst.j2ee.core",1365995222874
+started,bundle,org.eclipse.jem,2.0.300.v200901272200,"org.eclipse.jem",1365995222916
+started,bundle,org.eclipse.jst.jee,1.0.200.v200905290632,"org.eclipse.jst.jee",1365995223085
+started,bundle,org.eclipse.jpt.core,2.2.0.v200906070220,"org.eclipse.jpt.core",1365995223170
+started,bundle,org.eclipse.jpt.eclipselink.core,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.core",1365995223187
